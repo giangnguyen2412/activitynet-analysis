@@ -1,5 +1,7 @@
-# continual-video-captioning-trial
-continual-video-captioning-trial
+# activitynet-analysis
+This repo contains script to analyze the ActivityNet in paper: Dataset Dense-Captioning Events in Videos
+
+Link dataset [ActivityNet ](http://activity-net.org/download.html) 
 
 ## Conduct Analysis on ActivityNet dataset
 
